@@ -2,7 +2,6 @@
 #include <signal.h>
 #include <unistd.h>
 
-int aflag = 0;
 int iter = 0;
 
 void alrm(int signo)
